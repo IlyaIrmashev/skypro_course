@@ -1,3 +1,4 @@
-from funcs import sum_numbers
+from funcs import sum_numbers, sub_numbers
 
 sum_numbers()
+sub_numbers()
